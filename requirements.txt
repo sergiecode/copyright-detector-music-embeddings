@@ -1,6 +1,6 @@
 # Core dependencies for audio processing
 librosa>=0.10.0
-numpy>=1.21.0
+numpy>=1.21.0,<2.0.0
 scipy>=1.7.0
 
 # Machine Learning frameworks
